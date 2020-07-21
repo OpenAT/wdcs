@@ -7,21 +7,25 @@
 FS-Online Instance Configuration
 ================================
 
-Customer configuration for the instance wdcs
+Customer configuration for the instance arno
 
 - Default settings
 - View modifications
 - CSS
 - Translations
     ''',
-    'author': 'Michael Karrer (michael.karrer@datadialog.net), DataDialog',
+    'author': 'Joachim Grubelnik (joachim.grubelnik@datadialog.net), DataDialog',
     'version': '1.0',
     'website': 'https://www.datadialog.net',
     'installable': True,
     'depends': [
-        'fsonline',
+        'sale',
+        'portal_sale',
+        'website',
+        'website_sale_donate',
     ],
-    'data': [],
+    'data': [
+        'views/templates.xml',
+        'views/snippet_options.xml',
+    ],
 }
-
-    
