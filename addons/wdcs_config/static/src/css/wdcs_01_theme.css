@@ -15,6 +15,13 @@ body #wrapwrap footer {
     height: auto;
 }
 
+/* Pflichtfelder mit Stern */
+label.mandatory:after {
+    content: '*';
+}
+#auth_partner_form label {
+    color: #000;
+}
 
 /* ------------------- */
 /* BOOTSTRAP MODAL BOX */
