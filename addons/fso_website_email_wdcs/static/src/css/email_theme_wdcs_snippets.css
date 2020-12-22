@@ -17,7 +17,10 @@
     padding-top: 0px;
     padding-bottom: 0px;
 }
-
+/* Footer snippet */
+    #green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
+        margin: 80px;
+    }
 /* .snippet_block_text_image_left */
 .snippet_block_text_image_left .flexibleContainerRight,
 .snippet_block_text_image_left .flexibleContainerRight .flexibleImage {
@@ -91,7 +94,10 @@
 /* --------------- */
 
 .dadi_sb_spacer_solid .snippet_block_spacer_top td {
-    border-bottom: 3px solid #00BFB3;
+    border-bottom: 2px solid #00BFB3;
+}
+.dadi_sb_spacer_solidwhale .snippet_block_spacer_top td {
+    border-bottom: 2px solid #19b063;
 }
 /* Background and Foreground Options for Snippet Blocks */
 /* ---------------------------------------------------- */
@@ -103,6 +109,16 @@
 .wdcs_sb_fg_green .flexibleContainerCell .nestedContainerCell {
     background-color: #00BFB3;
     color: white;
+}
+.wdcs_sb_bg_greenwhale .flexibleContainerCell,
+.wdcs_sb_fg_greenwhale .flexibleContainerCell .nestedContainerCell {
+    background-color: #19b063;
+    color: white;
+}
+.wdcs_sb_bg_custom .flexibleContainerCell,
+.wdcs_sb_fg_custom .flexibleContainerCell .nestedContainerCell {
+    background-color: #cadcf2;
+    color: black;
 }
 .wdcs_sb_bg_orange .flexibleContainerCell,
 .wdcs_sb_fg_orange .flexibleContainerCell .nestedContainerCell {

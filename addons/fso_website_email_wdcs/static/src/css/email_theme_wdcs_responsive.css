@@ -39,6 +39,22 @@
     #combinedsnippetfooter .snippet_block_text_four_colums > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > table {
         width: 100%;
     }
+        /* Footer extra Snippet */
+    #green_whale > table.flexibleContainer25.flexibleContainer25right > tbody > tr > td > a > img {
+        width: 100px !important;
+    }
+    #green_whale > table.flexibleContainer25.flexibleContainer25middle_right > tbody > tr > td > a > img {
+        width: 146px !important;
+    }
+    #green_whale > table.flexibleContainer25.flexibleContainer25middle_left > tbody > tr > td > img {
+        min-width: 37px !important;
+    }
+    #green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text {
+        margin-bottom: 20px !important;
+    }
+        #green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
+        margin: 0px;
+    }
     #emailBody,
     table.flexibleContainer {
         width: 100% !important;

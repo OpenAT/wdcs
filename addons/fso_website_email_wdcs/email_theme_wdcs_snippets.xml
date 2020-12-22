@@ -61,11 +61,13 @@
                 <li data-value='wdcs_sb_fg_grey'><a>Grau</a></li>
                 <li data-value='wdcs_sb_fg_darkgrey'><a>Grau</a></li>
                 <li data-value='wdcs_sb_fg_green'><a>Grün</a></li>
+                <li data-value='wdcs_sb_fg_greenwhale'><a>Grün</a></li>
                 <li data-value='wdcs_sb_fg_orange'><a>Orange</a></li>
                 <li data-value='wdcs_sb_fg_blue'><a>Blau</a></li>
                 <li data-value='wdcs_sb_fg_yellow'><a>Gelb</a></li>
                 <li data-value='wdcs_sb_fg_brown'><a>Braun</a></li>
                 <li data-value='wdcs_sb_fg_background'><a>Hintergrund</a></li>
+                <li data-value='wdcs_sb_fg_custom'><a>custom</a></li>
             </ul>
         </xpath>
 
@@ -77,11 +79,13 @@
                 <li data-value='wdcs_sb_bg_grey'><a>Grau</a></li>
                 <li data-value='wdcs_sb_bg_darkgrey'><a>Grau</a></li>
                 <li data-value='wdcs_sb_bg_green'><a>Grün</a></li>
+                <li data-value='wdcs_sb_bg_greenwhale'><a>Grün</a></li>
                 <li data-value='wdcs_sb_bg_orange'><a>Orange</a></li>
                 <li data-value='wdcs_sb_bg_blue'><a>Blau</a></li>
                 <li data-value='wdcs_sb_bg_yellow'><a>Gelb</a></li>
                 <li data-value='wdcs_sb_bg_brown'><a>Braun</a></li>
                 <li data-value='wdcs_sb_bg_background'><a>Hintergrund</a></li>
+                <li data-value='wdcs_sb_bg_custom'><a>custom</a></li>
             </ul>
         </xpath>
 
@@ -90,6 +94,7 @@
             <li data-value='wdcs_di_button_red'><a>wdcs_Pink</a></li>
             <li data-value='wdcs_di_button_Grey'><a>wdcs_Grau</a></li>
             <li data-value='wdcs_di_button_green'><a>wdcs_Grün</a></li>
+            <li data-value='wdcs_di_button_greenwhale'><a>wdcs_Grün</a></li>
             <li data-value='dadi_di_button_yellow'><a>wdcs_Gelb</a></li>
             <li data-value='dadi_di_button_brown'><a>wdcs_Braun</a></li>
             <li data-value='dadi_di_button_blue'><a>wdcs_Blau</a></li>
@@ -154,6 +159,7 @@
         <!-- NEW: .snippet_block_bpbutton Extra Styles -->
         <xpath expr="//div[@data-snippet-option-id='snippet_block_bpbutton_style']//ul" position="inside">
             <li data-value='bpbutton_style_green'><a>Gruen</a></li>
+            <li data-value='bpbutton_style_greenwhale'><a>Gruen</a></li>
             <li data-value='bpbutton_style_grey'><a>Graue</a></li>
            <li data-value='bpbutton_style_red'><a>Pink</a></li>
            <li data-value='bpbutton_style_yellow'><a>Gelb</a></li>

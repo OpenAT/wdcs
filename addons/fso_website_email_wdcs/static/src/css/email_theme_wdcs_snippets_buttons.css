@@ -129,6 +129,12 @@
     color: white;
     border-color: #b32986;
 }
+#emailBody span.drop_in_button.dadi_di_button_greenwhale a:visited,
+#emailBody span.drop_in_button.dadi_di_button_greenwhale a {
+    background-color: #19b063;
+    color: white;
+    border-color: #19b063;
+}
 
 
 

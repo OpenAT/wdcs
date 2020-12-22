@@ -108,6 +108,13 @@
     color: white;
     font-weight: bold;
 }
+.snippet_block_bpbutton.bpbutton_style_greenwhale .bpbutton_table,
+.snippet_block_bpbutton.bpbutton_style_greenwhale .bpbutton_table a {
+    background-color: #19b063;
+    border-color: #19b063;
+    color: white;
+    font-weight: bold;
+}
 /* blue */
 .snippet_block_bpbutton.bpbutton_style_grey .bpbutton_table,
 .snippet_block_bpbutton.bpbutton_style_grey .bpbutton_table a {
