@@ -5,6 +5,7 @@
 .flexibleContainer {
     width: 700px;
 }
+
 /* man verliert viel platz, und JEDES Element mit allen breiten muss überarbeitet werden sonst passt nichts mehr */
 /*.flexibleContainerCell {
     padding-left: 40px;
@@ -23,12 +24,12 @@
     padding-bottom: 0px;
 }
 /* Footer snippet */
-    #green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
-        margin: 80px;
-    }
-    #green_whale > table.flexibleContainer25.flexibleContainer25middle_right > tbody > tr > td > a > img {
-        margin-top: 40px;
-    }
+#green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
+    margin: 40px;
+}
+#green_whale > table.flexibleContainer25.flexibleContainer25middle_right > tbody > tr > td > a > img {
+    margin-top: 40px;
+}
 /* .snippet_block_text_image_left */
 .snippet_block_text_image_left .flexibleContainerRight,
 .snippet_block_text_image_left .flexibleContainerRight .flexibleImage {
@@ -74,6 +75,9 @@
 .snippet_block_text_bild_four_column .flexibleContainer25,
 .snippet_block_text_bild_four_column .flexibleContainer25 .flexibleImage {
     width: auto;
+}
+.snippet_block_text_bild_four_column .flexibleContainer25 {
+    height: 110px;
 }
 #combinedsnippetfooter > div.ckediting_disabled.snippet_block.snippet_block_text_bild_four_column .flexibleContainerCell {
     padding: 0 0px;
