@@ -5,6 +5,11 @@
 .flexibleContainer {
     width: 700px;
 }
+/* man verliert viel platz, und JEDES Element mit allen breiten muss überarbeitet werden sonst passt nichts mehr */
+/*.flexibleContainerCell {
+    padding-left: 40px;
+    padding-right: 40px;
+}*/
 #headline .snippet_block_text_intro .flexibleContainerCell {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -20,6 +25,9 @@
 /* Footer snippet */
     #green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
         margin: 80px;
+    }
+    #green_whale > table.flexibleContainer25.flexibleContainer25middle_right > tbody > tr > td > a > img {
+        margin-top: 40px;
     }
 /* .snippet_block_text_image_left */
 .snippet_block_text_image_left .flexibleContainerRight,
@@ -69,6 +77,10 @@
 }
 #combinedsnippetfooter > div.ckediting_disabled.snippet_block.snippet_block_text_bild_four_column .flexibleContainerCell {
     padding: 0 0px;
+}
+
+#combinedsnippetfooter span > a {
+    font-size: 10px !important;
 }
 
 /* .snippet_block_banner */

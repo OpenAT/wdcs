@@ -268,9 +268,9 @@
                                                                                                             style="text-align:center;"
                                                                                                             valign="center">
                                                                                                             <span style="color:#253846; font-size:21px; font-family:Helvetica, Arial, sans-serif; line-height:20px">
-                                                                                                                <strong><br></br>
+                                                                                                                <strong>
                                                                                                                     WALSCHUTZ = KLIMASCHUTZ
-                                                                                                                </strong><br></br>
+                                                                                                                </strong>
                                                                                                             </span>
                                                                                                         </td>
                                                                                                     </tr>
@@ -675,15 +675,14 @@
                                                                                 <tbody>
                                                                                     <tr>
                                                                                         <td class="textContent ckediting_enabled">
-                                                                                            <p class="wdcs_tiny"
-                                                                                               style="text-align: center;">
-                                                                                                <span style="color:#CA32A1;">
+                                                                                            <p class="wdcs_tiny" style="text-align: center;">
+                                                                                                <span class="wdcs_tiny" style="color:#CA32A1;">
                                                                                                     Wir verarbeiten Ihre
                                                                                                     Daten gemäß Art. 6
                                                                                                     Abs. 1 f DSGVO.
                                                                                                     Weitere Infos finden
                                                                                                     Sie in unserer
-                                                                                                    <a href="https://de.whales.org/datenschutzerklaerung/" target="_blank">
+                                                                                                    <a class="wdcs_tiny" href="https://de.whales.org/datenschutzerklaerung/" target="_blank">
                                                                                                     Datenschutzerklärung.
                                                                                                     </a>
                                                                                                 </span>

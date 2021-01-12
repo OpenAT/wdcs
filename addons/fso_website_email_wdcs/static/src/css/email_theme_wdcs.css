@@ -60,7 +60,7 @@ a {
 
 /* ATTENTION: Do not add line-height to "td", "div" or "span" elements to support Outlook 2013 and alike */
 p {
-    line-height: 1.5em;
+    line-height: 1.25em;
 }
 div, span, td {
     font-size: inherit;
@@ -81,8 +81,9 @@ p {
 /* Links */
 a,
 a:visited {
-    color: #000000;
+    color: #CA32A1;
     text-decoration: none;
+    font-weight: bold;
 }
 
 /* Headlines */
