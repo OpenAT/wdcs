@@ -41,17 +41,23 @@
     width: 390px;
 }
 
-/* .snippet_block_text_image_right */
+/* Breiten Text links Bild Rechts */
 .snippet_block_text_image_right .flexibleContainerLeft,
 .snippet_block_text_image_right .flexibleContainerLeft .flexibleImage {
-    width: 430px;
+    width: 500px;
 }
+.snippet_block_text_image_right .flexibleContainerRight,
+.snippet_block_text_image_right .flexibleContainerRight .flexibleImage {
+    width: 100px;
+}
+
+/* Spezial */
 .snippet_block_text_image_right.wdcs_sb_fg_red .flexibleContainerLeft,
 .snippet_block_text_image_right.wdcs_sb_fg_green .flexibleContainerLeft,
 .snippet_block_text_image_right.wdcs_sb_fg_grey .flexibleContainerLeft,
 .snippet_block_text_image_right.wdcs_sb_fg_orange .flexibleContainerLeft,
 .snippet_block_text_image_right.wdcs_sb_fg_background .flexibleContainerLeft {
-    width: 390px;
+    width: 500px;
 }
 
 /* .snippet_block_text_twocol */
