@@ -265,27 +265,13 @@
                                                                                                 </strong>
                                                                                             </span>
                                                                                         </td>
-                                                                                        <td class="iconContent" id="green_whale_icons">
-                                                                                            <img alt="fin dark blue"
-                                                                                                 class="flexibleImage"
-                                                                                                 src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png"
-                                                                                                 style="display: inline-block; border: 0px; outline: none; width: 46px !important; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;"
-                                                                                                 width="46"/>
-                                                                                            <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/"
-                                                                                               target="_blank">
-                                                                                                <img alt="one percent for theplanet"
-                                                                                                     class="flexibleImage whale_button"
-                                                                                                     src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png"
-                                                                                                     style="display: inline-block; border: 0px; outline: none; width: 146px !important; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;"
-                                                                                                     width="146"/>
+                                                                                        <td class="textContent iconContent" id="green_whale_icons">
+                                                                                            <img alt="fin dark blue" class="flexibleImage bracket" src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png" style="display: inline-block; border: 0px; outline: none; width: 46px; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;" width="46"/>
+                                                                                            <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/" target="_blank">
+                                                                                                <img alt="one percent for theplanet" class="flexibleImage whale_button" src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 146px; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;" width="146"/>
                                                                                             </a>
-                                                                                            <a href="https://de.whales.org/transparenz"
-                                                                                               target="_blank">
-                                                                                                <img alt="green whale"
-                                                                                                     class="flexibleImage"
-                                                                                                     src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png"
-                                                                                                     style="display: inline-block; border: 0px; outline: none; width: 100px !important; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;"
-                                                                                                     width="100"/>
+                                                                                            <a href="https://de.whales.org/transparenz" target="_blank">
+                                                                                                <img alt="green whale" class="flexibleImage whale" src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 100px; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;" width="100"/>
                                                                                             </a>
                                                                                         </td>
                                                                                     </tr>

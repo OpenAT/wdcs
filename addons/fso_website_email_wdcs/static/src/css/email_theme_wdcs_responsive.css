@@ -18,7 +18,15 @@
     /*    width: 100% !important;*/
     /*}*/
     /* geht nicht */
-
+    #green_whale_icons img.flexibleImage.bracket {
+        width: 46px;
+    }
+    #green_whale_icons img.flexibleImage.whale_button {
+        width: 146px;
+    }
+    #green_whale_icons img.flexibleImage.whale {
+        width: 100px;
+    }
     #wdc_footer_logo {
         text-align: center !important;
     }
@@ -30,17 +38,7 @@
         display: block !important;
         text-align: center !important;
     }
-    wdc_footer_logo,
-    wdc_footer_txtContent,
-    wdc_footer_iconsContent {
-        display: block !important;
-        text-align: center !important;
-    }
-    wdc_footer_logo.textContent,
-    wdc_footer_txtContent.textContent,
-    wdc_footer_iconsContent.textContent {
-        width: 100%;
-    }
+
     #green_whale {
         margin: 10px;
     }
@@ -49,12 +47,6 @@
     }*/
     .whale_button {
         margin: 0 0 40px 0;
-    }
-    #green_whale_right.ImageContent.flexibleTableContainer50.flexibleTableContainer50right {
-        width: 100%;
-        }
-    #green_whale.textContent.flexibleTableContainer50.flexibleTableContainer50left {
-        width: 100%;
     }
     /* geht nicht */
     #combinedsnippetfooter td > table.flexibleContainer25 {
