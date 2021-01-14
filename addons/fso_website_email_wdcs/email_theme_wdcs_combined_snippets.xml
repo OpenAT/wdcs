@@ -249,72 +249,44 @@
                                                 <tbody>
                                                     <tr>
                                                         <td align="center" class="flexibleContainerCell" valign="top">
-                                                            <table border="0" cellpadding="0" cellspacing="0"
-                                                                   class="nestedContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" class="nestedContainer">
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td align="center" class="nestedContainerCell"
-                                                                            valign="top">
-                                                                            <table border="0" cellpadding="0"
-                                                                                   cellspacing="0" class="contentTable">
+                                                                        <td align="center" class="nestedContainerCell" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" class="contentTable">
                                                                                 <tbody>
                                                                                     <tr>
-                                                                                        <td id="green_whale" class="textContent">
-                                                                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="flexibleContainer25 flexibleContainer25left flexibleContainer25left_text">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center"
-                                                                                                            class="textContent ckediting_enabled"
-                                                                                                            style="text-align:center;"
-                                                                                                            valign="center">
-                                                                                                            <span style="color:#253846; font-size:21px; font-family:Helvetica, Arial, sans-serif; line-height:20px">
-                                                                                                                <strong>
-                                                                                                                    WALSCHUTZ = KLIMASCHUTZ
-                                                                                                                </strong>
-                                                                                                            </span>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
-
-                                                                                            <table align="left"
-                                                                                                   border="0"
-                                                                                                   cellpadding="0"
-                                                                                                   cellspacing="0"
-                                                                                                   class="flexibleContainer25 flexibleContainer25middle_left">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center" class="textContent ckediting_enabled" style="text-align:center;" valign="left">
-                                                                                                            <img class="flexibleImage"
-                                                                                                                 src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png" width="46" alt="fin dark blue" style="display: inline-block; border: 0px; outline: none; width: 46px; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;"/>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
-
-                                                                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="flexibleContainer25 flexibleContainer25middle_right">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center" class="textContent ckediting_enabled" style="text-align:center;" valign="left">
-                                                                                                            <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/" target="_blank">
-                                                                                                                <img class="flexibleImage" src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png" width="146" alt="one percent for theplanet" style="display: inline-block; border: 0px; outline: none; width: 146px; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;"/>
-                                                                                                            </a>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
-
-                                                                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="flexibleContainer25 flexibleContainer25right">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center" class="textContent ckediting_enabled" style="text-align:center;" valign="left">
-                                                                                                            <a href="https://de.whales.org/transparenz" target="_blank">
-                                                                                                                <img class="flexibleImage" src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png" width="100" alt="green whale" style="display: inline-block; border: 0px; outline: none; width: 100px; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;"/>
-                                                                                                            </a>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
+                                                                                        <td class="textContent" id="green_whale">
+                                                                                            <span style="color:#253846; font-size:21px; font-family:Helvetica, Arial, sans-serif; line-height:20px">
+                                                                                                <strong>
+                                                                                                    WALSCHUTZ
+                                                                                                    =
+                                                                                                    KLIMASCHUTZ
+                                                                                                </strong>
+                                                                                            </span>
+                                                                                        </td>
+                                                                                        <td class="iconContent" id="green_whale_icons">
+                                                                                            <img alt="fin dark blue"
+                                                                                                 class="flexibleImage"
+                                                                                                 src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png"
+                                                                                                 style="display: inline-block; border: 0px; outline: none; width: 46px !important; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;"
+                                                                                                 width="46"/>
+                                                                                            <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/"
+                                                                                               target="_blank">
+                                                                                                <img alt="one percent for theplanet"
+                                                                                                     class="flexibleImage whale_button"
+                                                                                                     src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png"
+                                                                                                     style="display: inline-block; border: 0px; outline: none; width: 146px !important; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;"
+                                                                                                     width="146"/>
+                                                                                            </a>
+                                                                                            <a href="https://de.whales.org/transparenz"
+                                                                                               target="_blank">
+                                                                                                <img alt="green whale"
+                                                                                                     class="flexibleImage"
+                                                                                                     src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png"
+                                                                                                     style="display: inline-block; border: 0px; outline: none; width: 100px !important; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;"
+                                                                                                     width="100"/>
+                                                                                            </a>
                                                                                         </td>
                                                                                     </tr>
                                                                                 </tbody>
@@ -332,7 +304,6 @@
                                 </tbody>
                             </table>
                         </div>
-
                             <div class="ckediting_disabled snippet_block snippet_block_spacer dadi_sb_spacer_solidwhale">
                             <table cellpadding="0" cellspacing="0" class="centeringTable">
                                 <tbody>
@@ -445,42 +416,40 @@
                                                                                                             class="textContent ckediting_enabled"
                                                                                                             style="text-align:center;"
                                                                                                             valign="top">
-                                                                                                            <p class="wdcs_tiny"
-                                                                                                               style="text-align: left;">
+                                                                                                            <p class="wdcs_tiny footerheadline" style="text-align: left;">
                                                                                                                 <strong>
-                                                                                                                    <a href="http://whales.org/" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="http://whales.org/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Webseite
                                                                                                                     </a>
                                                                                                                     ·
-                                                                                                                    <a href="https://secure.whales.org/secure/kontakt/index.php" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://secure.whales.org/secure/kontakt/index.php" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Kontakt
                                                                                                                     </a>
                                                                                                                     ·
-                                                                                                                    <a href="https://secure.whales.org/secure/infomaterial/" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://secure.whales.org/secure/infomaterial/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Infomaterial
                                                                                                                     </a>
                                                                                                                     ·
-                                                                                                                    <a href="https://de.whales.org/wdc-shop/" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://de.whales.org/wdc-shop/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Shop
                                                                                                                     </a>
                                                                                                                     ·
-                                                                                                                    <a href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Spenden
                                                                                                                     </a>
                                                                                                                     ·<br></br>
-                                                                                                                    <a href="https://secure.whales.org/secure/newsletter/nl-abmeldung.php" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://secure.whales.org/secure/newsletter/nl-abmeldung.php" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Newsletter
                                                                                                                     abbestellen
                                                                                                                     </a>
                                                                                                                     ·
-                                                                                                                    <a href="https://de.whales.org/impressum/" target="_blank" style="text-align: center; font-size: 12.8px;">
+                                                                                                                    <a href="https://de.whales.org/impressum/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
                                                                                                                     Impressum
                                                                                                                     </a>
                                                                                                                 </strong>
                                                                                                             </p>
 
-                                                                                                            <p class="wdcs_tiny"
-                                                                                                               style="text-align: left;">
+                                                                                                            <p class="wdcs_tiny" style="text-align: left;">
                                                                                                                 <span style="color:#888888;">
                                                                                                                     WDC,
                                                                                                                     Whale
@@ -682,7 +651,7 @@
                                                                                                     Abs. 1 f DSGVO.
                                                                                                     Weitere Infos finden
                                                                                                     Sie in unserer
-                                                                                                    <a class="wdcs_tiny" href="https://de.whales.org/datenschutzerklaerung/" target="_blank">
+                                                                                                    <a class="wdcs_tiny" href="https://de.whales.org/datenschutzerklaerung/" style="font-color: #000;" target="_blank">
                                                                                                     Datenschutzerklärung.
                                                                                                     </a>
                                                                                                 </span>

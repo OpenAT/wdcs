@@ -23,11 +23,16 @@
     padding-top: 0px;
     padding-bottom: 0px;
 }
+
 /* Footer snippet */
-#green_whale > table.flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text > tbody > tr > td > span {
+
+#green_whale {
+    display: block;
     margin: 40px;
 }
-
+.whale_button {
+    margin: 0 0 40px 0 !important;
+}
 /* .snippet_block_text_image_left */
 .snippet_block_text_image_left .flexibleContainerRight,
 .snippet_block_text_image_left .flexibleContainerRight .flexibleImage {
@@ -89,6 +94,18 @@
 
 #combinedsnippetfooter span > a {
     font-size: 10px !important;
+}
+
+#combinedsnippetfooter a,
+#combinedsnippetfooter span > a,
+#combinedsnippetfooter a:visited {
+    color: #0000ee;
+}
+
+#wdc_footer_logo .footerheadline a,
+#wdc_footer_logo .footerheadline a:visited,
+#wdc_footer_logo .footerheadline a:hover {
+    color: #000;
 }
 
 /* .snippet_block_banner */

@@ -1,19 +1,60 @@
 /* ---------- */
 /* RESPONSIVE */
 /* ---------- */
+/* Mac ignores maxwidth */
+@media screen and (min-width: 661px) {
+	#combinedsnippetfooter .innercontainer {
+		width: 660px !important;
+	}
+}
 
 @media only screen and (max-width: 480px) {
-    /*#pfot_header_body {*/
+    /*#wdcs_header_body {*/
     /*    display: none !important;*/
     /*}*/
 
-    /*#pfot_header_body, #emailBody, #pfot_footer_body,*/
+    /*#wdcs_header_body, #emailBody, #wdcs_footer_body,*/
     /*table.flexibleContainer {*/
     /*    width: 100% !important;*/
     /*}*/
     /* geht nicht */
+
     #wdc_footer_logo {
         text-align: center !important;
+    }
+/*    #green_whale .flexibleContainer25.flexibleContainer25left.flexibleContainer25left_text {
+        width: 100% !important;
+    }*/
+    #green_whale_icons,
+    #green_whale {
+        display: block !important;
+        text-align: center !important;
+    }
+    wdc_footer_logo,
+    wdc_footer_txtContent,
+    wdc_footer_iconsContent {
+        display: block !important;
+        text-align: center !important;
+    }
+    wdc_footer_logo.textContent,
+    wdc_footer_txtContent.textContent,
+    wdc_footer_iconsContent.textContent {
+        width: 100%;
+    }
+    #green_whale {
+        margin: 10px;
+    }
+/*    #green_whale_icons > img {
+        transform: rotate(90deg);
+    }*/
+    .whale_button {
+        margin: 0 0 40px 0;
+    }
+    #green_whale_right.ImageContent.flexibleTableContainer50.flexibleTableContainer50right {
+        width: 100%;
+        }
+    #green_whale.textContent.flexibleTableContainer50.flexibleTableContainer50left {
+        width: 100%;
     }
     /* geht nicht */
     #combinedsnippetfooter td > table.flexibleContainer25 {
