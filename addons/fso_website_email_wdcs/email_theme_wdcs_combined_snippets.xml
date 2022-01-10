@@ -230,6 +230,163 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- HEADER SNIPPET BLOCK ALLG Neu -->
+                <!-- =============== -->
+                <div>
+                    <!-- Icon and name -->
+                    <div class="oe_snippet_thumbnail">
+                        <img class="oe_snippet_thumbnail_img"
+                             src="/fso_website_email_wdcs/static/src/icons/wdcs_nl_header_icon_neu.png"/>
+                        <span class="oe_snippet_thumbnail_title">Header Snippet neu</span>
+                    </div>
+                    <div id="combinedheadersnippetWebVersion" class="oe_snippet_body ckediting_disabled wdcs_bin">
+                        <div class="snippet_block ckediting_enabled snippet_block_text_intro">
+                            <table cellpadding="0" cellspacing="0" class="centeringTable">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table border="0" cellpadding="0" cellspacing="0" class="flexibleContainer">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="center" class="flexibleContainerCell" valign="top">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   class="nestedContainer">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" class="nestedContainerCell"
+                                                                            valign="top">
+                                                                            <table border="0" cellpadding="0"
+                                                                                   cellspacing="0" class="contentTable">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td class="textContent ckediting_enabled">
+                                                                                            <p class="wdcs_tiny"
+                                                                                               style="text-align: center;">
+                                                                                                <a data-cke-saved-href="%open_browser%"
+                                                                                                   href="%open_browser%"
+                                                                                                   style="text-align: center; color: gray; font-weight: 700; font-size: 12px;"
+                                                                                                   target="_blank">Hier
+                                                                                                    gehts zur Online
+                                                                                                    Version
+                                                                                                </a>
+                                                                                            </p>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="ckediting_disabled snippet_block snippet_block_text_twocol wdcs_snippet_block_padding_none"
+                             id="combinedheadersnippetlogo">
+                            <table cellpadding="0" cellspacing="0" class="centeringTable">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table border="0" cellpadding="0" cellspacing="0" class="flexibleContainer">
+                                                <tbody>
+                                                    <tr>
+                                                        <td align="center" class="flexibleContainerCell" valign="top">
+                                                            <table border="0" cellpadding="0" cellspacing="0"
+                                                                   class="nestedContainer">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" class="nestedContainerCell"
+                                                                            valign="top">
+                                                                            <table border="0" cellpadding="0"
+                                                                                   cellspacing="0" class="contentTable">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td class="textContent">
+                                                                                            <table align="left"
+                                                                                                   border="0"
+                                                                                                   cellpadding="0"
+                                                                                                   cellspacing="0"
+                                                                                                   class="flexibleContainerLeft">
+                                                                                                <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="center"
+                                                                                                            class="textContent ckediting_enabled"
+                                                                                                            valign="top">
+                                                                                                            <a data-cke-saved-href="https://www.whales.org"
+                                                                                                               href="https://www.whales.org"
+                                                                                                               target="_blank">
+                                                                                                                <img class="flexibleImage"
+                                                                                                                     data-cke-saved-src="/fso_website_email_wdcs/static/src/icons/wdcs_nl_header_icon_WBG.png"
+                                                                                                                     src="/fso_website_email_wdcs/static/src/icons/wdcs_nl_header_icon_WBG.png"/>
+                                                                                                            </a>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody>
+                                                                                            </table>
+                                                                                            <table align="right"
+                                                                                                   border="0"
+                                                                                                   cellpadding="0"
+                                                                                                   cellspacing="0"
+                                                                                                   class="flexibleContainerRight">
+                                                                                                <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="center"
+                                                                                                            class="textContent ckediting_enabled"
+                                                                                                            valign="top">
+                                                                                                            <p style="text-align: right;">
+                                                                                                                <br></br>
+                                                                                                            </p>
+                                                                                                            <p style="text-align: right;">
+                                                                                                                <a data-cke-saved-href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/?herkunft=13174"
+                                                                                                                   href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/?herkunft=13174"
+                                                                                                                   target="_blank">
+                                                                                                                    <img data-cke-saved-src="/fso_website_email_wdcs/static/src/icons/btn-paypal-sofort-kk-bgwhite.png"
+                                                                                                                         src="/fso_website_email_wdcs/static/src/icons/btn-paypal-sofort-kk-bgwhite.png"/>
+                                                                                                                </a>
+                                                                                                                <br></br>
+                                                                                                            </p>
+                                                                                                            <p style="text-align: right;">
+                                                                                                                <br></br>
+                                                                                                            </p>
+                                                                                                            <span class="ckediting_enabled drop_in drop_next drop_in_button dadi_di_button_normal dadi_di_button_fullright wdcs_di_button_red">
+                                                                                                                <a data-cke-saved-href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/?herkunft=13174"
+                                                                                                                   href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/?herkunft=13174"
+                                                                                                                   target="_blank">
+                                                                                                                    Spenden
+                                                                                                                </a>
+                                                                                                            </span>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                </div>
+
                 <!-- FOOTER SNIPPET BLOCK -->
                 <!-- =============== -->
                 <div>
@@ -256,23 +413,29 @@
                                                                             <table border="0" cellpadding="0" cellspacing="0" class="contentTable">
                                                                                 <tbody>
                                                                                     <tr>
-                                                                                        <td class="textContent" id="green_whale">
+                                                                                        <td align="center" valign="middle" class="textContent" id="green_whale" style="white-space: nowrap;">
                                                                                             <span style="color:#253846; font-size:21px; font-family:Helvetica, Arial, sans-serif; line-height:20px">
                                                                                                 <strong>
-                                                                                                    WALSCHUTZ
-                                                                                                    =
-                                                                                                    KLIMASCHUTZ
+                                                                                                    WALSCHUTZ = KLIMASCHUTZ
                                                                                                 </strong>
                                                                                             </span>
                                                                                         </td>
-                                                                                        <td class="textContent iconContent" id="green_whale_icons">
-                                                                                            <img alt="fin dark blue" class="flexibleImage bracket" src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png" style="display: inline-block; border: 0px; outline: none; width: 46px; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;" width="46"/>
-                                                                                            <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/" target="_blank">
-                                                                                                <img alt="one percent for theplanet" class="flexibleImage whale_button" src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 146px; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;" width="146"/>
-                                                                                            </a>
-                                                                                            <a href="https://de.whales.org/transparenz" target="_blank">
-                                                                                                <img alt="green whale" class="flexibleImage whale" src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 100px; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;" width="100"/>
-                                                                                            </a>
+                                                                                        <td align="center" valign="middle" class="textContent iconContent" id="green_whale_icons" style="white-space: nowrap;">
+                                                                                            <table><tr><td>
+                                                                                                <td align="center" valign="middle" class="textContent iconContent">
+                                                                                                    <img alt="fin dark blue" class="flexibleImage bracket" src="https://secure.whales.org/secure/nlimages/nl-footer-fin_dark-blue-right.png" style="display: inline-block; border: 0px; outline: none; width: 46px; height: auto; max-width: 46px; -ms-interpolation-mode: bicubic; hspace: 10;" width="46"/>
+                                                                                                </td>
+                                                                                                <td align="center" valign="middle" class="textContent iconContent">
+                                                                                                    <a href="https://de.whales.org/wdc-ziele/der-gruene-wal/" target="_blank">
+                                                                                                        <img alt="one percent for theplanet" class="flexibleImage whale_button" src="https://secure.whales.org/secure/nlimages/nl-footer-btn-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 146px; height: auto; max-width: 146px; -ms-interpolation-mode: bicubic; hspace: 10;" width="146"/>
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                                <td align="center" valign="middle" class="textContent iconContent">
+                                                                                                    <a href="https://de.whales.org/transparenz" target="_blank">
+                                                                                                        <img alt="green whale" class="flexibleImage whale" src="https://secure.whales.org/secure/nlimages/nl-footer-der-gruene-wal.png" style="display: inline-block; border: 0px; outline: none; width: 100px; height: auto; max-width: 100px; -ms-interpolation-mode: bicubic; hspace: 10;" width="100"/>
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                            </td></tr></table>
                                                                                         </td>
                                                                                     </tr>
                                                                                 </tbody>
@@ -361,47 +524,19 @@
                                                 <tbody>
                                                     <tr>
                                                         <td align="center" class="flexibleContainerCell" valign="top">
-                                                            <table border="0" cellpadding="0" cellspacing="0"
-                                                                   class="nestedContainer">
+                                                            <table border="0" cellpadding="0" cellspacing="0" class="nestedContainer">
                                                                 <tbody>
                                                                     <tr>
-                                                                        <td align="center" class="nestedContainerCell"
-                                                                            valign="top">
-                                                                            <table border="0" cellpadding="0"
-                                                                                   cellspacing="0" class="contentTable">
+                                                                        <td align="center" class="nestedContainerCell" valign="top">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" class="contentTable">
                                                                                 <tbody>
                                                                                     <tr>
-                                                                                        <td id="wdc_footer_logo" class="textContent">
-                                                                                            <table align="left"
-                                                                                                   border="0"
-                                                                                                   cellpadding="0"
-                                                                                                   cellspacing="0"
-                                                                                                   class="flexibleContainer25 flexibleContainer25left">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center"
-                                                                                                            class="textContent ckediting_enabled"
-                                                                                                            style="text-align:center;"
-                                                                                                            valign="top">
-                                                                                                            <img class="flexibleImage"
-                                                                                                                 src="/fso_website_email_wdcs/static/src/img/wdc_logo_small2.gif"
-                                                                                                                 style="text-align:center;"/>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
+                                                                                        <td align="center" valign="middle" id="wdc_footer_logo" class="textContent" style="display: inline-block;">
 
-                                                                                            <table align="left"
-                                                                                                   border="0"
-                                                                                                   cellpadding="0"
-                                                                                                   cellspacing="0"
-                                                                                                   class="flexibleContainer25 flexibleContainer25middle_left flexibleContainer25middle_left_text">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center"
-                                                                                                            class="textContent ckediting_enabled"
-                                                                                                            style="text-align:center;"
-                                                                                                            valign="top">
+                                                                                            <img class="flexibleImage" src="/fso_website_email_wdcs/static/src/img/wdc_logo_small2.gif" style="text-align:center;"/>
+                                                                                        </td>
+                                                                                        <td align="center" valign="middle" id="wdc_footer_textarea" class="textContent">
+
                                                                                                             <p class="wdcs_tiny footerheadline" style="text-align: left;">
                                                                                                                 <strong>
                                                                                                                     <a href="http://whales.org/" target="_blank" style="text-align: center; font-size: 12.8px; font-color: #000;">
@@ -500,34 +635,18 @@
                                                                                                                     Dank!
                                                                                                                 </span>
                                                                                                             </p>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
 
-                                                                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="flexibleContainer25 flexibleContainer25middle_right">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center" class="textContent ckediting_enabled" style="text-align:center;" valign="top">
+                                                                                        </td>
+                                                                                        <td align="center" valign="middle" id="wdc_footer_log2" class="textContent" style="display: inline-block;">
+
                                                                                                             <a href="https://onepercentfortheplanet.org/" target="_blank">
                                                                                                                 <img class="flexibleImage" src="/fso_website_email_wdcs/static/src/img/logo-nl-1-percent.png" width="37" alt="one percent for theplanet" style="display: block; border: 0px; outline: none; width: 37px; height: auto; max-width: 37px;"/>
                                                                                                             </a>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
 
-                                                                                            <table align="left" border="0" cellpadding="0" cellspacing="0" class="flexibleContainer25 flexibleContainer25right">
-                                                                                                <tbody>
-                                                                                                    <tr>
-                                                                                                        <td align="center" class="textContent ckediting_enabled" style="text-align:center;" valign="top">
                                                                                                             <a href="https://de.whales.org/transparenz" target="_blank">
                                                                                                                 <img class="flexibleImage" src="/fso_website_email_wdcs/static/src/img/transparente_zivilgesellschaft.jpg" width="178" alt="one percent for theplanet" style="display: block; border: 0px; outline: none; width: 178px; height: auto; max-width: 178px;"/>
                                                                                                             </a>
-                                                                                                        </td>
-                                                                                                    </tr>
-                                                                                                </tbody>
-                                                                                            </table>
+
                                                                                         </td>
                                                                                     </tr>
                                                                                 </tbody>
@@ -663,6 +782,234 @@
 
                     </div>
                 </div>
+
+                <!-- FOOTER SNIPPET BLOCK NEU -->
+                <!-- =============== -->
+                <div>
+                    <!-- Icon and name -->
+                    <div class="oe_snippet_thumbnail">
+                        <img class="oe_snippet_thumbnail_img"
+                             src="/fso_website_email_wdcs/static/src/icons/wdcs_nl_footer_icon_neu.png"/>
+                        <span class="oe_snippet_thumbnail_title">Footer Snippet neu</span>
+                    </div>
+                    <div id="combinedsnippetfooterNeu" class="oe_snippet_body ckediting_disabled wdcs_bin">
+                        <div class="ckediting_disabled snippet_block snippet_block_text_intro wdcs_sb_bg_darkgrey">
+                            <table class="centeringTable" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table class="flexibleContainer" border="0" cellpadding="0" cellspacing="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="flexibleContainerCell" align="center" valign="top">
+                                                            <table class="nestedContainer" border="0" cellpadding="0"
+                                                                   cellspacing="0">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td class="nestedContainerCell" align="center"
+                                                                            valign="top">
+                                                                            <table class="contentTable" border="0"
+                                                                                   cellpadding="0" cellspacing="0">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td class="textContent ckediting_enabled">
+                                                                                            <h3 style="text-align: center;">
+                                                                                                <span style="color:#ffffff;">
+                                                                                                    Folgen Sie uns auf
+                                                                                                </span>
+                                                                                            </h3>
+                                                                                            <p style="text-align: center;">
+                                                                                                <a href="https://www.instagram.com/whalesorg_de/" target="_blank">
+                                                                                                    <img src="/fso_website_email_wdcs/static/src/icons/instagram_grau.jpg" class=""/>
+                                                                                                </a>
+                                                                                                <a href="https://www.instagram.com/whalesorg_de/" target="_blank">
+                                                                                                    <img src="/fso_website_email_wdcs/static/src/icons/twitter_grau.jpg" class=""/>
+                                                                                                </a>
+                                                                                                <a href="https://www.instagram.com/whalesorg_de/" target="_blank">
+                                                                                                    <img src="/fso_website_email_wdcs/static/src/icons/facebook_grau.jpg" class=""/>
+                                                                                                </a>
+                                                                                                <a href="https://www.instagram.com/whalesorg_de/" target="_blank">
+                                                                                                    <img src="/fso_website_email_wdcs/static/src/icons/youtube_grau.jpg" class=""/>
+                                                                                                </a>
+                                                                                                <br></br>
+                                                                                            </p>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="ckediting_disabled snippet_block snippet_block_text_intro wdcs_sb_bg_darkgrey">
+                            <table class="centeringTable" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table class="flexibleContainer" border="0" cellpadding="0" cellspacing="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="flexibleContainerCell" align="center" valign="top">
+                                                            <a href="https://whales.org/" target="_blank"><span style="color:#00BFB3;">Website</span></a>
+                                                            <br></br>
+                                                            <a href="https://secure.whales.org/secure/kontakt/index.php" target="_blank"><span style="color:#fff;">Kontakt</span></a><br></br>
+                                                            <a href="https://secure.whales.org/secure/infomaterial/" target="_blank"><span style="color:#fff;">Infomaterial bestellen</span></a><br></br>
+                                                            <a href="https://de.whales.org/wdc-shop/" target="_blank"><span style="color:#fff;">Shop</span></a><br></br>
+                                                            <a href="https://de.whales.org/spenden-und-helfen/walschutz-foerdern/" target="_blank"><span style="color:#fff;">Spenden</span></a><br></br>
+                                                            <a href="https://de.whales.org/spenden-und-helfen/patenschaft/" target="_blank"><span style="color:#00BFB3;">Patenschaft übernehmen</span></a>
+                                                            <br></br><a href="https://de.whales.org/spenden-und-helfen/werte-weitergeben/" target="_blank"><span style="color:#fff;">Testaments-Spende1</span></a>
+                                                            <br></br>
+                                                            <a href="file:///Users/joe/Downloads/wdcs/newsletter/neu_2022/NL-neu-footer.html#" target="_blank"><span style="color:#00BFB3;">Adressänderung durchgeben</span></a><br></br>
+                                                            <a href="https://secure.whales.org/secure/newsletter/nl-abmeldung.php" target="_blank"><span style="color:#00BFB3;">Newsletter abbestellen</span></a>
+                                                            <br></br><a href="https://de.whales.org/transparenz/" target="_blank"><span style="color:#fff;">Transparenz</span></a>
+                                                            <br></br><a href="https://de.whales.org/impressum/" target="_blank"><span style="color:#fff;">Impressum</span></a>
+                                                            <br></br>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="ckediting_disabled snippet_block snippet_block_text_intro wdcs_sb_bg_darkgrey">
+                            <table class="centeringTable" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table class="flexibleContainer" border="0" cellpadding="0" cellspacing="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="flexibleContainerCell" align="center" valign="top">
+                                                            <table class="nestedContainer" border="0" cellpadding="0"
+                                                                   cellspacing="0">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td class="nestedContainerCell" align="center"
+                                                                            valign="top">
+                                                                            <table class="contentTable" border="0"
+                                                                                   cellpadding="0" cellspacing="0">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td class="textContent ckediting_enabled">
+                                                                                            <p style="text-align: center;">
+                                                                                                <span style="color:#ffffff;">
+                                                                                                    <span style="font-size: 15px; font-weight: 400; background-color: transparent; text-align: center;">
+                                                                                                        WDC, Whale &amp;
+                                                                                                        Dolphin
+                                                                                                        Conservation.
+                                                                                                        Implerstraße 55,
+                                                                                                        81371 München<br></br>
+                                                                                                        T 089 6100 2393, <a href="mailto:kontakt@whales.org" style="color:#00BFB3;"><span style="color:#00BFB3;">E kontakt@whales.org</span></a>.<br></br>
+                                                                                                        Fotos ©: Vorname Nachname, Vorname Nachname<br></br>
+                                                                                                        © WDC Monat/Jahr<br></br>
+                                                                                                    </span>
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="ckediting_disabled snippet_block snippet_block_text_intro wdcs_sb_bg_darkgrey">
+                            <table class="centeringTable" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td align="center" valign="top">
+                                            <table class="flexibleContainer" border="0" cellpadding="0" cellspacing="0">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="flexibleContainerCell" align="center" valign="top">
+                                                            <table class="nestedContainer" border="0" cellpadding="0"
+                                                                   cellspacing="0">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td class="nestedContainerCell" align="center"
+                                                                            valign="top">
+                                                                            <table class="contentTable" border="0"
+                                                                                   cellpadding="0" cellspacing="0">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td class="textContent ckediting_enabled">
+                                                                                            <p style="text-align: center;">
+                                                                                                <span style="color:#ffffff;">
+                                                                                                    <span style="font-size: 15px; font-weight: 400; background-color: transparent; text-align: center;">
+                                                                                                        Wir verarbeiten
+                                                                                                        Ihre Daten gemäß
+                                                                                                        Art. 6 Abs. 1 f
+                                                                                                        DSGVO. Die
+                                                                                                        Newsletter
+                                                                                                        werden von uns
+                                                                                                        quantitativ auf
+                                                                                                        Öffnungsraten
+                                                                                                        und Klickraten
+                                                                                                        der darin
+                                                                                                        enthaltenen
+                                                                                                        Links
+                                                                                                        ausgewertet, um
+                                                                                                        die Newsletter
+                                                                                                        für die
+                                                                                                        Abonnent*innen
+                                                                                                        weiter zu
+                                                                                                        optimieren.
+                                                                                                        Dadurch lassen
+                                                                                                        sich
+                                                                                                        Newsletter-Abonnent*innen
+                                                                                                        nicht persönlich
+                                                                                                        identifizieren.
+                                                                                                        Die Einwilligung
+                                                                                                        kann jederzeit
+                                                                                                        widerrufen
+                                                                                                        werden. Weitere
+                                                                                                        Infos finden Sie
+                                                                                                        in unserer
+                                                                                                        <a href="https://de.whales.org/datenschutzerklaerung/" target="_blank"><span style="color:#ffffff;">
+                                                                                                            Datenschutzerklärung.</span></a>
+                                                                                                    </span>
+                                                                                                </span>
+                                                                                            </p>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </xpath>
     </template>
