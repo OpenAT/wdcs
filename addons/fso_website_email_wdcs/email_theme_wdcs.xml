@@ -76,21 +76,6 @@
                 <!-- COMMON CSS-ASSETS AND <head> TAGS -->
                 <!-- get it from here https://fonts.google.com/specimen/Open+Sans?sidebar.open=true&selection.family=Open+Sans -->
                 <link data-premailer="ignore" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,300;1,400&amp;display=swap" rel="stylesheet" type="text/css" t-ignore="true"/>
-                <!-- Preserve @Fontface with premailer even "keep_style_tags=False" -->
-                 <style type="text/css" data-premailer="ignore">
-                     <![CDATA[
-                     @font-face {
-                          font-family: 'WienerMelange TQ BD';
-                          font-style: normal;
-                          font-weight: 500;
-                          src: local('WienerMelange TQ BD'), local('WienerMelange-TQ-BD'), url('/fso_website_email_wdcs/static/src/fonts/Web/WOFF/WienerMelange_W_Bd.woff') format('woff');
-                          src: local('WienerMelange TQ BD'), local('WienerMelange-TQ-BD'), url('/fso_website_email_wdcs/static/src/fonts/Web/WOFF2/WienerMelange_W_Bd.woff2') format('woff2');
-                          src: local('WienerMelange TQ BD'), local('WienerMelange-TQ-BD'), url('/fso_website_email_wdcs/static/src/fonts/WienerMelange_Bd.ttf') format('ttf');
-                     }
-                     ]]>
-               </style>
-                <link data-premailer="ignore" href="https://db.onlinewebfonts.com/c/d064de6e0d13377cef8e4b7a1d77a317?family=Helvetica+LT+CondensedBlack" rel="stylesheet" type="text/css" t-ignore="true"/>
-                <link data-premailer="ignore" href="https://db.onlinewebfonts.com/c/ad4f223f08dab24cfc81e643bb88cc66?family=Helvetica+Neue" rel="stylesheet" type="text/css" t-ignore="true"/>
                 <link data-premailer="ignore" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&amp;display=swap" type="text/css" rel="stylesheet"/>
                 <link data-premailer="ignore" href='/fso_website_email_wdcs/static/src/css/custom_fonts_styles.css' rel='stylesheet' type='text/css' t-ignore="true"/>
                 <t t-call="fso_website_email.theme_head_common"/>
@@ -172,7 +157,7 @@
 
                             <!-- wdcs Footer CONTENT -->
                             <template id="email_theme_wdcs_footer" name="wdcs Footer">
-                                <div class="bird_footer_info dadi_sb_bg_full ckediting_disabled">
+                                <div class="wdcs_footer_info dadi_sb_bg_full ckediting_disabled">
                                     <table class="centeringTable" cellpadding="0" cellspacing="0">
                                         <tr>
                                             <td align="center" valign="top">
