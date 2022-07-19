@@ -6,8 +6,8 @@
 #emailBody span.drop_in_button a,
 #emailBody span.drop_in_button a:visited {
     border-radius: 3px;
-    background-color: #444444;
-    border: 1px solid #444444;
+    background-color: transparent;
+    border: 1px solid transparent;
     color: white;
     font-weight: bold;
     /* outlook test   */
@@ -103,6 +103,12 @@
     background-color: #CA32A1;
     border-color: #CA32A1;
     color: white;
+}
+#emailBody span.drop_in_button.wdcs_di_button_red,
+#emailBody span.drop_in_button.dadi_di_button_red {
+    background-color: transparent;
+    border-color: transparent;
+    border-radius:3px
 }
 
 #emailBody span.drop_in_button.dadi_di_button_brown a:visited,
