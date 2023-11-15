@@ -94,6 +94,10 @@
     }
 
     .h1, h1{
+        padding-bottom: 12px;
+    }
+/*
+    .h1, h1{
         font-size: 24px;
         padding-bottom: 12px;
         font-weight: 700;
@@ -123,6 +127,7 @@
         font-size: 14px;
         font-weight: 300;
     }
+*/
 
     .snippet_block_text_image_left.wita_text_image_witagrey_box .flexibleContainerRight .textContent,
     .snippet_block_text_image_left.wita_text_image_red_box .flexibleContainerRight .textContent {
