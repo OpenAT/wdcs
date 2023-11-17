@@ -178,3 +178,7 @@ p.wdcs_tiny {
 .wdcs_dark_grey {
     color: #253846;
 }
+
+#combinedheadersnippetlogo .flexibleContainerRight p a {
+    font-size: 8px;
+}
