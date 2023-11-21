@@ -142,4 +142,30 @@
     min-height: inherit;
 }
 
+    /* Undo responsive settings for combinedheadersnippetlogo only */
+    #combinedheadersnippetlogo table.flexibleContainerRight,
+    #combinedheadersnippetlogo table.flexibleContainerLeft,
+    #combinedheadersnippetlogo table.flexibleContainer33 {
+        width: unset !important;
+        text-align: unset !important;
+        margin-bottom: unset !important;
+        vertical-align: middle !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    #combinedheadersnippetlogo table.flexibleContainerLeft img {
+        width: 150px !important;
+    }
+}
+
+@media only screen and (max-width: 410px) {
+    #combinedheadersnippetlogo table.flexibleContainerRight,
+    #combinedheadersnippetlogo table.flexibleContainerLeft,
+    #combinedheadersnippetlogo table.flexibleContainer33 {
+        width: 100% !important;
+    }
+    #combinedheadersnippetlogo table.flexibleContainerLeft img {
+        width: 100% !important;
+    }
 }
