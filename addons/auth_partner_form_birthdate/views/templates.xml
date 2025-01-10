@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data noupdate="0">
+
+        <!-- Load custom js and css -->
+        <template id="assets_frontend" inherit_id="auth_partner_form.assets_frontend" name="Auth Partner Form no Birthdate">
+            <xpath expr="//script[@src='/auth_partner_form/static/src/js/apf_validate.js']" position="replace">
+                <script type="text/javascript" src="/auth_partner_form_birthdate/static/src/js/apf_validate_no_birthdate.js"/>
+            </xpath>
+        </template>
+
+    </data>
+</openerp>
