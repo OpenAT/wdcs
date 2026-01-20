@@ -1,4 +1,4 @@
-/* ATTENTION: FIX HEIGHT CALCULATION OF THE IFRAME RESIZER
+#information-phone/* ATTENTION: FIX HEIGHT CALCULATION OF THE IFRAME RESIZER
               !!!THE TAGGED ELEMENT MUST BE A BLOCK ELEMENT OR IT WILL NEVER RELEASE ITS HEIGHT!!!
               SO ALT LEAST THE TAGGED <main data-iframe-height="True"> element MUST BE A BLOCK ELEMENT!!!
 */
@@ -163,4 +163,9 @@ a {
 }
 a:hover {
     color: #008c83;
+}
+
+/* Hide birthdate_web info button */
+[data-target="#information-birthdate_web"] {
+    display: none;
 }
